@@ -1,19 +1,22 @@
 # Whiskers Adoption Hub
 
-Creator: Jackie Mendoza
+Authors:
+- Jackie Mendoza
+- Joseline Rojas
 
-## Project Idea
-Whiskers Adoption Hub will be a Python program that helps organize information about cats available for adoption. Users will be able to view and manage cat data such as name, age, and adoption status.
+## Project Description
+Whiskers Adoption Hub is a Python program designed to help organize information about cats available for adoption. The program will store and display cat details such as name, age, breed, and adoption status.
 
 ## Project Goal
 The goal of this project is to practice Python fundamentals including:
-- reading files
 - user input
-- loops
 - lists
+- loops
 - conditionals
-
+- functions
+  
 ## Sprint 1 Progress
 - Created GitHub repository
-- Added README file
-- Began researching existing Python code related to adoption databases
+- Added README.md file
+- Created project roadmap
+- Began researching related Python repositories
