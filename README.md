@@ -5,7 +5,7 @@ Authors:
 - Joseline Rojas
 
 ## Project Description
-Whiskers Adoption Hub is a Python program designed to help organize information about cats available for adoption. The program will store and display cat details such as name, age, breed, and adoption status.
+Whiskers Adoption Hub is a Python program designed to help organize information about cats available for adoption that will help both shelters and users through a simple and organized platform making it a cat adoption managment system. The program will store and display cat details such as name, age, breed, and adoption status.
 
 ## Project Goal
 The goal of this project is to practice Python fundamentals including:
