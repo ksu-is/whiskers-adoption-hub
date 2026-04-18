@@ -20,3 +20,4 @@ The goal of this project is to practice Python fundamentals including:
 - Added README.md file
 - Created project roadmap
 - Began researching related Python repositories
+- Cloned existing repository called Maddi_Caldwell_DoggyTracks
