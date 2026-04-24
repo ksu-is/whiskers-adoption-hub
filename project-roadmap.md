@@ -24,3 +24,10 @@ Whiskers Adoption Hub
 https://github.com/ksu-is/Maddi_Caldwell_DoggyTracks
 
 During this sprint we explored the Maddi_Caldwell_DoggyTracks repository. The project is organized into different Python files such as controllers.py, models.py, and core.py along with folders like templates and static. This helped us understand how a Python project can be structured and how different parts of the code work together.
+
+---
+
+## Sprint 2 Task
+-[x] Create cats.py - Joseline Rojas Lara
+-[x] Create requirments.txt - Joseline Rojas 
+-[x] Create utils.py - Joseline Rojas Lara
