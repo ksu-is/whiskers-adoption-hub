@@ -28,6 +28,7 @@ During this sprint we explored the Maddi_Caldwell_DoggyTracks repository. The pr
 ---
 
 ## Sprint 2 Task
--[x] Create cats.py - Joseline Rojas Lara
--[x] Create requirments.txt - Joseline Rojas 
--[x] Create utils.py - Joseline Rojas Lara
+
+- [x] Create cats.py - Joseline Rojas Lara
+- [x] Create requirments.txt - Joseline Rojas 
+- [x] Create utils.py - Joseline Rojas Lara
