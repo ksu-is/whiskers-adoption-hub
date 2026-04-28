@@ -8,7 +8,7 @@ for cat in cats:
     print("Age:", cat["age"])
     print("Breed:", cat["breed"])
     print("Status:", cat["status"])
-    
+
     search = input("\nEnter a status to search for Available, Pending, or Adopted: ")
 
 print("\nSearch Results:")
