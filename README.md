@@ -21,3 +21,9 @@ The goal of this project is to practice Python fundamentals including:
 - Created project roadmap
 - Began researching related Python repositories
 - Cloned existing repository called Maddi_Caldwell_DoggyTracks
+
+## Sprint 2 Progress
+- Created cats.py
+- Created main.py
+- 
+-
