@@ -29,3 +29,6 @@ During this sprint we explored the Maddi_Caldwell_DoggyTracks repository. The pr
 
 - [x] Add multiple cat records to cats.py — Jackie Mendoza, Joseline Rojas
 - [x] Update main.py to display all cat details — Jackie Mendoza, Joseline Rojas
+- [x] Created cats.py and added codes
+- [x] Created main.py
+      
