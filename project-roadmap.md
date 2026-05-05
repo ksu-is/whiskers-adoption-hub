@@ -12,11 +12,11 @@ Whiskers Adoption Hub
 ## Sprint 1 Tasks
 
 - [x] Create GitHub repository — Jackie Mendoza
-- [x] Join KSU-IS GitHub organization — Jackie Mendoza, Joseline Rojas
+- [x] Join KSU-IS GitHub organization — Jackie Mendoza, Joseline Rojas Lara
 - [x] Create README.md — Jackie Mendoza
-- [x] Find related Python repository and evaluate it — Joseline Rojas
+- [x] Find related Python repository and evaluate it — Joseline Rojas Lara
 - [x] Clone repository and review the code — Jackie Mendoza
-- [x] Document findings from the repository — Jackie Mendoza, Joseline Rojas
+- [x] Document findings from the repository — Jackie Mendoza, Joseline Rojas Lara
       
 ---
 
@@ -27,8 +27,14 @@ During this sprint we explored the Maddi_Caldwell_DoggyTracks repository. The pr
 
 ## Sprint 2 Tasks
 
-- [x] Add multiple cat records to cats.py — Jackie Mendoza, Joseline Rojas
-- [x] Update main.py to display all cat details — Jackie Mendoza, Joseline Rojas
-- [x] Created cats.py and added codes - Joseline Rojas
-- [x] Created main.py - Joseline Rojas, Jackie Mendoza
+- [x] Add multiple cat records to cats.py — Jackie Mendoza, Joseline Rojas Lara
+- [x] Update main.py to display all cat details — Jackie Mendoza, Joseline Rojas Lara
+- [x] Created cats.py and added codes - Joseline Rojas Lara
+- [x] Created main.py - Joseline Rojas Lara, Jackie Mendoza
+      
+## Sprint 3 Tasks
+
+- [x] Update main.py and finalize the code - Jackie Mendoza, Joseline Rojas Lara
+- [x] Start our powerpoint - Jackie Mendoza, Joseline Rojas Lara
+- [x] Complete our powerpoint and ready to present - Joseline Rojas Lara, Jackie Mendoza 
       
