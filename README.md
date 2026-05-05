@@ -25,7 +25,7 @@ The goal of this project is to practice Python fundamentals including:
 ## Sprint 2 Progress
 - Created cats.py
 - Created main.py
--
+
 
 ## Sprint 3 Progress 
 - Finalize main.py 
