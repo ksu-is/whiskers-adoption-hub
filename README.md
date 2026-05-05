@@ -30,3 +30,4 @@ The goal of this project is to practice Python fundamentals including:
 ## Sprint 3 Progress 
 - Finalize main.py 
 - Create first powerpoint slide
+- Finalize presenation/powerpoint
